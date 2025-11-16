@@ -2,10 +2,6 @@
 
 A modern and responsive **Admin Dashboard** built with **React**, **Vite**, and **Syncfusion** components. This frontend-only application showcases various interactive and customizable UI components for data visualization, planning, and management — ideal for business admin interfaces and productivity tools.
 
-![dashboard-preview](preview.png) <!-- Replace with actual screenshot path -->
-
----
-
 ## 🚀 Live Demo
 
 👉 https://admin-dashboard-delta-six-10.vercel.app/
@@ -36,4 +32,4 @@ A modern and responsive **Admin Dashboard** built with **React**, **Vite**, and 
 | Syncfusion React  | Powerful and flexible UI components      |
 | React Router DOM  | Routing for SPA navigation               |
 
----
+
